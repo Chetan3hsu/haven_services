@@ -7,6 +7,8 @@ import Card1 from './Components/Card1.jsx' ;
 import Content2 from './Components/Content2.jsx' ;
 import Content3 from './Components/Content3.jsx' ;  
 import Cards3 from './Components/Cards3.jsx' ;
+import Slast from './Components/Slast.jsx' ;
+import Footer from './Components/Footer.jsx' ;
 function App() {
   return (
     <div>
@@ -25,6 +27,8 @@ function App() {
       <Content2/><br/><br/>
       <Content3/><br/><br/>
       <Cards3/><br/><br/>
+      <Slast/><br/><br/><br/><br/>
+      <Footer/>
     </div>
 
     
